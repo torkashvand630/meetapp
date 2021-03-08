@@ -53,7 +53,7 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
   <br /><a href=''>webrtc</a> for audio and video conference
   <br /><a href=''>intel&reg; collaboration suite</a> for webrtc
   <br /><a href='https://github.com/google/boringssl'>BoringSSL</a>     (fork of OpenSSL) by google for ssl validation
-  <br /><a href='https://letsencrypt.org/'>letsencrypt</a>   
+  <br /><a href='https://letsencrypt.org/'>letsencrypt</a>
   <br /><a href='https://github.com/dotnet/aspnetcore'>asp.net core</a>
   <br /><a href='https://getbootstrap.com/'>bootstrap</a> for front end design
   <br /><a href='https://github.com/coturn/coturn'>coturn</a> server for nat traversal
