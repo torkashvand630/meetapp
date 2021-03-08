@@ -5,6 +5,7 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
   <ul>
 <li>Advanced interactive whiteboard </li>
 <li>Collaboration online Office suite  </li>
+    <li>Team collaboration</li>
 <li> Chat </li>
 <li>Desktop sharing</li>
     <li>Video and audio conferencing</li>
@@ -31,8 +32,8 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
  
  
 <p style="text-align: left;">The installation process is very easy and can be installed in less than 5 minutes</p>
-  # install use docker
-   1 - install docker  in 
+  # install meetapp
+    
    
   
 
