@@ -49,23 +49,23 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
     
    
  
-<p style="text-align: left;">
+ 
   <br />webrtc for audio and video conference
   <br />intel&reg; collaboration suite for webrtc
-  <br />BoringSSL (fork of OpenSSL) by google for ssl validation
-  <br />letsencrypt 
+  <br />  <a href='https://github.com/google/boringssl'>BoringSSL</a>     (fork of OpenSSL) by google for ssl validation
+  <br /><a href='https://letsencrypt.org/'>letsencrypt</a>   
   <br />asp.net core
   <br />bootstrap for front end design
   <br />coturn server for nat traversal
   <br />OpenResty (nginx base webserver) for reverse proxy
   <br />ffmpeg 
   <br />libwebsocket for websocket communication
-  <br />docker for container management</p>
+  <br />docker for container management 
   <br /><a href='http://visualmatheditor.equatheque.net/index.html'>Visual Math Editor</a> 
  <br /><a href='https://github.com/jgraph/drawio'>online diagramming web</a> 
-    <p><a href='https://github.com/traefik/traefik'>HTTP reverse proxy </a><p>
-     <p><a href='https://github.com/CollaboraOnline/online'> collaborative online office suite </a><p>
-<p></p>
+   <br /><a href='https://github.com/traefik/traefik'>HTTP reverse proxy </a> 
+    <br />a href='https://github.com/CollaboraOnline/online'> collaborative online office suite </a> 
+ 
   
 
 
