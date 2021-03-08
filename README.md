@@ -50,21 +50,21 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
    
  
  
-  <br />webrtc for audio and video conference
-  <br />intel&reg; collaboration suite for webrtc
-  <br />  <a href='https://github.com/google/boringssl'>BoringSSL</a>     (fork of OpenSSL) by google for ssl validation
+  <br /><a href=''>webrtc</a> for audio and video conference
+  <br /><a href=''>intel&reg; collaboration suite</a> for webrtc
+  <br /><a href='https://github.com/google/boringssl'>BoringSSL</a>     (fork of OpenSSL) by google for ssl validation
   <br /><a href='https://letsencrypt.org/'>letsencrypt</a>   
-  <br />asp.net core
-  <br />bootstrap for front end design
-  <br />coturn server for nat traversal
-  <br />OpenResty (nginx base webserver) for reverse proxy
-  <br />ffmpeg 
-  <br />libwebsocket for websocket communication
-  <br />docker for container management 
+  <br /><a href='https://github.com/dotnet/aspnetcore'>asp.net core</a>
+  <br /><a href='https://getbootstrap.com/'>bootstrap</a> for front end design
+  <br /><a href='https://github.com/coturn/coturn'>coturn</a> server for nat traversal
+  <br /><a href='https://openresty.org/en/'>OpenResty</a> (nginx base webserver) for reverse proxy
+  <br /><a href='https://www.ffmpeg.org/'>ffmpeg</a> 
+  <br /><a href='https://libwebsockets.org/'>libwebsocket</a> for websocket communication
+  <br /><a href='https://www.docker.com/'>docker</a> for container management 
   <br /><a href='http://visualmatheditor.equatheque.net/index.html'>Visual Math Editor</a> 
- <br /><a href='https://github.com/jgraph/drawio'>online diagramming web</a> 
-   <br /><a href='https://github.com/traefik/traefik'>HTTP reverse proxy </a> 
-    <br />a href='https://github.com/CollaboraOnline/online'> collaborative online office suite </a> 
+  <br /><a href='https://github.com/jgraph/drawio'>online diagramming web</a> 
+  <br /><a href='https://github.com/traefik/traefik'>HTTP reverse proxy </a> 
+  <br /><a href='https://github.com/CollaboraOnline/online'> collaborative online office suite </a> 
  
   
 
