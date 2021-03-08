@@ -31,8 +31,8 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
   </ul>
  
  
-
-  <h4> install meetapp</h3>
+<h2 align="center">install meetapp</h2>
+ 
   <p style="text-align: left;">The installation process is very easy and can be installed in less than 5 minutes</p>
   <ul>
   <li> install docker in your os </li>
