@@ -61,8 +61,8 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
   <br />ffmpeg 
   <br />libwebsocket for websocket communication
   <br />docker for container management</p>
-  <p><a href='http://visualmatheditor.equatheque.net/index.html'>Visual Math Editor</a><p>
-  <p><a href='https://github.com/jgraph/drawio'>online diagramming web</a><p>
+  <br /><a href='http://visualmatheditor.equatheque.net/index.html'>Visual Math Editor</a> 
+ <br /><a href='https://github.com/jgraph/drawio'>online diagramming web</a> 
     <p><a href='https://github.com/traefik/traefik'>HTTP reverse proxy </a><p>
      <p><a href='https://github.com/CollaboraOnline/online'> collaborative online office suite </a><p>
 <p></p>
