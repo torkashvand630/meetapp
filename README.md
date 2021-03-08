@@ -46,7 +46,7 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
   <p>By executing the above command, Docker will run and download and install the software, as well as provide the required ssl use letsencrypt</p>
   <p>The software is installed Open the Chrome browser and enter the https://yourdomain.com</p>
   <p></p>   
-  <p>To develop this software, free and open source packages have been used, which include the following:</p>
+  <br /> <br /> <p>To develop this software, free and open source packages have been used, which include the following:</p>
     
    
  
