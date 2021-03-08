@@ -35,13 +35,17 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
 <h2 align="center">install meetapp</h2>
  
   <p style="text-align: left;">The installation process is very easy and can be installed in less than 5 minutes</p>
+  <p></p>
   <ul>
   <li> install docker in your os </li>
     <li> clone this repository</li>
     <li> cd meetapp</li>
-  <li> open .env file and change domain and save it</li>
+  <li> open .env file and replace example.com with a domain or subdomain</li>
   <li>docker-compose up -d </li>
   </ul>
+  <p>By executing the above command, Docker will run and download and install the software, as well as provide the required ssl use letsencrypt</p>
+  <p>The software is installed Open the Chrome browser and enter the https://yourdomain.com</p>
+  
     
    
   
