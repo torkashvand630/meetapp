@@ -1,0 +1,40 @@
+http:   
+  routers:
+
+    proom:     
+      rule: "Host(`myDomian`)"
+      tls:
+        certResolver: myresolver      
+      service: 'proom'  
+
+    libre:     
+      rule: "Host(`myDomian`) && (PathPrefix(`/lool/`) || PathPrefix(`/loleaflet/`) || PathPrefix(`/hosting/`))"
+      tls:
+        certResolver: myresolver      
+      service: 'libre'
+
+     
+    sfu:     
+      rule: "Host(`myDomian`) && Path(`/ws`)"
+      tls:
+        certResolver: myresolver           
+      service: 'sfu'
+
+
+  services:
+    proom:
+      loadBalancer:        
+        servers:         
+          - url: http://proom:5000
+            
+    libre:
+      loadBalancer:        
+        servers:          
+          - url: http://libre:9980
+             
+    sfu:
+      loadBalancer:        
+        servers:         
+          - url: http://sfu:7000
+           
+                   
