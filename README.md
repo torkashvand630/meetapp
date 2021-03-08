@@ -24,15 +24,16 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
   <li>Windows server</li>
   <li>FreeBSD </li>
   </ul>
-<h4  ><strong>Requirements</strong></h4>
+<h4><strong>Requirements</strong></h4>
 <ul>
   <li>ip</li>
   <li>domain or subdomain</li>
   </ul>
  
  
-<p style="text-align: left;">The installation process is very easy and can be installed in less than 5 minutes</p>
-  # install meetapp
+
+  <h4> install meetapp</h3>
+  <p style="text-align: left;">The installation process is very easy and can be installed in less than 5 minutes</p>
   <ul>
   <li> install docker </li>
     <li> clone this repository</li>
