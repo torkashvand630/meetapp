@@ -52,7 +52,7 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
    
  
  
-  <br /><a  target="_blank"   https://github.com/webrtc'>webrtc</a> for audio and video conference
+  <br /><a  target="_blank" href='https://github.com/webrtc'>webrtc</a> for audio and video conference
   <br /><a  target="_blank" href='https://github.com/open-webrtc-toolkit/owt-server'>intel&reg; collaboration suite</a> for webrtc
   <br /><a  target="_blank" href='https://github.com/google/boringssl'>BoringSSL</a>     (fork of OpenSSL) by google for ssl validation
   <br /><a  target="_blank" href='https://letsencrypt.org/'>letsencrypt</a>
