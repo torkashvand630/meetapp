@@ -1,7 +1,7 @@
 # meetapp
 meetapp is free adobe connect alternatives for visual classrooms , online meetings, screen share,   webinars , video and audio conferencing.
 <h2 align="center">Features</h2>
-<p><p>
+<p><p> 
   <ul>
 <li>Advanced interactive whiteboard </li>
 <li>Collaboration online Office suite  </li>
@@ -47,13 +47,13 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
   <p>By executing the above command, Docker will run and download and install the software, as well as provide the required ssl use letsencrypt</p>
   <p>The software is installed Open the Chrome browser and enter the https://yourdomain.com</p>
   <p></p>   
-  <br /> <br /> <p>To develop this software, free and open source packages have been used, which include the following:</p>
+  <br /> <br /> <p>To develop this software, free and open source packages have been used, which include the following : </p>
     
    
  
  
-  <br /><a href=''>webrtc</a> for audio and video conference
-  <br /><a href=''>intel&reg; collaboration suite</a> for webrtc
+  <br /><a href='https://github.com/webrtc'>webrtc</a> for audio and video conference
+  <br /><a href='https://github.com/open-webrtc-toolkit/owt-server'>intel&reg; collaboration suite</a> for webrtc
   <br /><a href='https://github.com/google/boringssl'>BoringSSL</a>     (fork of OpenSSL) by google for ssl validation
   <br /><a href='https://letsencrypt.org/'>letsencrypt</a>
   <br /><a href='https://github.com/dotnet/aspnetcore'>asp.net core</a>
@@ -78,7 +78,6 @@ meetapp is free adobe connect alternatives for visual classrooms , online meetin
 
 
  
-
 
 
 
