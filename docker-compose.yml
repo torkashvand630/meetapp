@@ -19,7 +19,18 @@ services:
              
         depends_on:
             - proom            
-         
+
+    mqtt:
+        container_name: mqtt
+        image: eclipse-mosquitto
+        restart: always
+        networks:
+            - meetnet
+        ports:
+            - 9001:9001
+            - 1883:1883                 
+        volumes:            
+            - ${dataPath}mqtt/:/mosquitto/config           
 
     libre:
         container_name: libre
@@ -49,7 +60,7 @@ services:
 
     proom:
         container_name: proom
-        image: alit771/proom:b127
+        image: alit771/proom:b129
         restart: on-failure
         networks:
             - meetnet

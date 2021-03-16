@@ -7,6 +7,12 @@ http:
         certResolver: myresolver      
       service: 'proom'  
 
+    mqtt:     
+      rule: "Host(`meet.salampnu.com`) && Path(`/mqtt`)"
+      tls:
+        certResolver: myresolver2           
+      service: 'mqtt'
+
     libre:     
       rule: "Host(`myDomian`) && (PathPrefix(`/lool/`) || PathPrefix(`/loleaflet/`) || PathPrefix(`/hosting/`))"
       tls:
@@ -26,6 +32,11 @@ http:
       loadBalancer:        
         servers:         
           - url: http://proom:5000
+
+    mqtt:
+      loadBalancer:        
+        servers:          
+          - url: http://mqtt:9001          
             
     libre:
       loadBalancer:        
