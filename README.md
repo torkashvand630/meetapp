@@ -1,3 +1,11 @@
+
+deprecated repo
+new version at 
+
+<a href='https://github.com/sunmobiir/meetapp'>https://github.com/sunmobiir/meetapp</a>
+
+
+
 # meetapp
 meetapp is free adobe connect alternatives for visual classrooms , online meetings, screen share,   webinars , video and audio conferencing.
 <div>
